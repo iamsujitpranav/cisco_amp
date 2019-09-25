@@ -1,0 +1,33 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  connector_guid: MyString
+  hostname: MyString
+  active: false
+  links: 
+  connector_version: MyString
+  operating_system: MyString
+  internal_ips: MyString
+  external_ip: MyString
+  group_guid: MyString
+  install_date: 2019-09-25 18:50:17
+  network_addresses: MyString
+  policy: 
+  last_seen: 2019-09-25 18:50:17
+  faults: MyString
+
+two:
+  connector_guid: MyString
+  hostname: MyString
+  active: false
+  links: 
+  connector_version: MyString
+  operating_system: MyString
+  internal_ips: MyString
+  external_ip: MyString
+  group_guid: MyString
+  install_date: 2019-09-25 18:50:17
+  network_addresses: MyString
+  policy: 
+  last_seen: 2019-09-25 18:50:17
+  faults: MyString
